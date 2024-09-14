@@ -8,3 +8,4 @@ https://engsoftmoderna.info/
 <br>https://drawio.com/
 <br>https://astah.net/products/free-student-license/
 <br>https://plantuml.com/
+<br>https://www.figma.com/pt-br/templates/
