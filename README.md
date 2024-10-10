@@ -12,3 +12,4 @@ https://engsoftmoderna.info/
 <br>https://www.figma.com/pt-br/templates/
 <br>https://joeyoder.com/PDFs/mud.pdf
 <br>https://www.branas.io/index.html
+<br>https://refactoring.guru/pt-br/
