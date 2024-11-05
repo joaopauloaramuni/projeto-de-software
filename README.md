@@ -1,6 +1,10 @@
 # projeto-de-software
 Repo Projeto de Software
 
+Disciplina do curso de Engenharia de Software da PUC Minas 
+
+- 2°Sem 2024
+
 https://engsoftmoderna.info/
 <br>https://martinfowler.com/
 <br>https://www.thoughtworks.com/pt-br/radar
