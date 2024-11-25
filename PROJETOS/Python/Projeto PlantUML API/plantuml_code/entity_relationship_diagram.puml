@@ -1,0 +1,44 @@
+@startuml
+' Definição de entidades
+entity Cliente {
+    + id: INT
+    nome: VARCHAR
+    email: VARCHAR
+    telefone: VARCHAR
+}
+
+entity Pedido {
+    + id: INT
+    data: DATE
+    total: DECIMAL
+    status: VARCHAR
+}
+
+entity Produto {
+    + id: INT
+    nome: VARCHAR
+    descricao: VARCHAR
+    preco: DECIMAL
+    estoque: INT
+}
+
+entity ItemPedido {
+    + id: INT
+    quantidade: INT
+    subtotal: DECIMAL
+}
+
+entity Pagamento {
+    + id: INT
+    metodo: VARCHAR
+    data: DATE
+    valor: DECIMAL
+}
+
+' Definição de relacionamentos
+Cliente ||--o{ Pedido : "realiza"
+Pedido ||--o{ ItemPedido : "contém"
+Produto ||--o{ ItemPedido : "é adicionado a"
+Pedido ||--|| Pagamento : "é pago por"
+
+@enduml

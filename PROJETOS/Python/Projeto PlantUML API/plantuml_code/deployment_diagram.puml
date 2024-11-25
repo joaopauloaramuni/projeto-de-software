@@ -1,0 +1,39 @@
+@startuml
+cloud "Internet" {
+    [Usuário Externo]
+    [API Externa] <<external>>
+}
+
+node "Rede Interna" {
+    node "Servidor Web 1" {
+        [Aplicação Web]
+    }
+    node "Servidor Web 2" {
+        [Aplicação Web - Replica]
+    }
+
+    node "Servidor de Banco de Dados Primário" {
+        [Banco de Dados]
+    }
+    node "Servidor de Banco de Dados Secundário" {
+        [Replica do Banco]
+    }
+
+    node "Servidor de Cache" {
+        [Cache]
+    }
+}
+
+node "Dispositivos Locais" {
+    [Sensor de Temperatura]
+}
+
+[Usuário Externo] --> [Aplicação Web] : HTTP Requests
+[Aplicação Web] --> [Aplicação Web - Replica] : Replicação de Carga
+[Aplicação Web] --> [Banco de Dados] : Consultas SQL
+[Aplicação Web] --> [Cache] : Armazenar/Recuperar Dados
+[Aplicação Web] --> [API Externa] : Consumo de API
+[Aplicação Web] --> [Sensor de Temperatura] : Configurar Dispositivo
+[Sensor de Temperatura] --> [Aplicação Web] : Dados Sensores
+[Banco de Dados] --> [Replica do Banco] : Replicação
+@enduml

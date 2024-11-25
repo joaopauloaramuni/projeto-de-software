@@ -1,0 +1,26 @@
+@startuml
+[*] --> Início : Inicialização
+
+Início --> Login : Solicitar Login
+Login : entry / Exibir formulário de login
+Login : exit / Validar credenciais
+
+Login --> Sessão : Login bem-sucedido
+Login --> [*] : Login falhou
+
+Sessão : entry / Inicializar sessão
+Sessão --> Comprando : Escolher produtos
+Sessão --> Sair : Logout
+
+state Comprando {
+    [*] --> Navegando : Visualizar produtos
+    Navegando --> AdicionandoAoCarrinho : Selecionar produto
+    AdicionandoAoCarrinho --> Navegando : Continuar navegando
+    AdicionandoAoCarrinho --> Pagando : Finalizar compra
+}
+
+Pagando --> Sessão : Pagamento concluído
+Pagando --> Navegando : Pagamento cancelado
+
+Sessão --> [*] : Encerrar sistema
+@enduml

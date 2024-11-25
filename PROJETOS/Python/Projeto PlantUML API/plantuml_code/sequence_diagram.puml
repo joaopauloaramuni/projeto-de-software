@@ -1,0 +1,38 @@
+@startuml
+Alice -> Bob: Solicitação
+activate Bob
+note right of Bob: Processando a solicitação
+Bob --> Alice: Confirmação
+deactivate Bob
+
+opt Caso especial
+    Alice -> Charlie: Pergunta
+    activate Charlie
+    note right of Charlie: Verificando informações
+    Charlie --> Alice: Resposta
+    deactivate Charlie
+end
+
+alt Condição
+    Alice -> Bob: Solicitação adicional
+    activate Bob
+    Bob --> Alice: Resposta adicional
+    deactivate Bob
+else Outro cenário
+    Alice -> Charlie: Outra pergunta
+    activate Charlie
+    Charlie --> Alice: Outra resposta
+    deactivate Charlie
+end
+
+loop Iteração
+    Alice -> Bob: Dados do loop
+    activate Bob
+    Bob --> Alice: Dados processados
+    deactivate Bob
+end
+
+Alice ->> Sistema: Requisição assíncrona
+note left: Enviar notificação por e-mail
+Sistema -->> Alice: Confirmação recebida
+@enduml

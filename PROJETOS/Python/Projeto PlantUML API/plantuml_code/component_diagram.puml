@@ -1,0 +1,52 @@
+@startuml
+cloud "Internet" {
+    [API Externa] <<external>>
+}
+
+package "Módulo Cliente" {
+    [ControladorCliente] <<component>>
+    [UI Cliente] <<component>>
+
+    interface "InterfaceCliente" as ICCliente
+    [ControladorCliente] o-- ICCliente : fornece
+    [UI Cliente] --> [ControladorCliente] : Interação do Usuário
+
+    interface "InterfacePedido" as ICPedido
+    [ControladorCliente] ..> ICPedido : requer
+}
+
+package "Módulo Pedido" {
+    [ControladorPedido] <<component>>
+    [ServicoPedido] <<component>>
+
+    interface "InterfacePedido" as ICPedido
+    [ControladorPedido] o-- ICPedido : fornece
+
+    interface "InterfaceSistema" as ICSistema
+    [ControladorPedido] ..> ICSistema : requer
+
+    [ServicoPedido] --> [ControladorPedido] : Regras de Negócio
+}
+
+package "Módulo Sistema" {
+    [ControladorSistema] <<component>>
+    [Banco de Dados] <<database>>
+
+    interface "InterfaceSistema" as ICSistema
+    [ControladorSistema] o-- ICSistema : fornece
+    [ControladorSistema] --> [Banco de Dados] : Consultar/Atualizar Dados
+}
+
+package "Infraestrutura de Rede" {
+    [Gateway] <<component>>
+    [Balanceador de Carga] <<component>>
+    [Firewall] <<component>>
+
+    [Gateway] --> [Balanceador de Carga] : Direcionar Tráfego
+    [Balanceador de Carga] --> [ControladorSistema] : Distribuir Requisições
+    [Firewall] --> [Gateway] : Filtrar Tráfego
+}
+
+[ControladorCliente] --> [Gateway] : Solicitações HTTP
+[ControladorSistema] --> [API Externa] : Obter Dados Externos
+@enduml

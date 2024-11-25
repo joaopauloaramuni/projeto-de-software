@@ -1,0 +1,31 @@
+@startuml
+package "Módulo Cliente" {
+    class Cliente
+    class Pedido {
+        +id: int
+        +status: string
+    }
+    Cliente --> Pedido : Faz Pedido
+}
+
+package "Módulo Sistema" {
+    class Sistema
+    class BancoDeDados
+    Sistema --> BancoDeDados : Armazena Dados
+}
+
+package "Módulo Externo" {
+    class APIExterna
+    Sistema --> APIExterna : Consome API
+}
+
+package "Infraestrutura" {
+    allowmixing
+    component Servidor
+    component Firewall
+    Firewall --> Servidor : Protege
+}
+
+Servidor --> Sistema : Hospeda Sistema
+Firewall --> Cliente : Filtra Requisições
+@enduml

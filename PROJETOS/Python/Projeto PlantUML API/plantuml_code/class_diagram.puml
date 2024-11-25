@@ -1,0 +1,54 @@
+@startuml
+abstract class Pessoa {
+    +id: int
+    +nome: string
+    +email: string
+    +telefone: string
+    +getInformacoes(): string
+}
+
+class Cliente {
+    +limiteCredito: float
+    +fazerPedido(Pedido): void
+    +cancelarPedido(Pedido): void
+}
+
+class Administrador {
+    +nivelAcesso: int
+    +gerenciarPedidos(): void
+    +gerenciarProdutos(): void
+}
+
+Pessoa <|-- Cliente
+Pessoa <|-- Administrador
+
+class Pedido {
+    +id: int
+    +valor: float
+    +status: string
+    +data: Date
+    +confirmarPagamento(): bool
+    +cancelarPedido(): void
+}
+
+class Produto {
+    +id: int
+    +nome: string
+    +preco: float
+    +quantidadeEmEstoque: int
+    +atualizarEstoque(qtd: int): void
+}
+
+class Carrinho {
+    +id: int
+    +itens: List<Produto>
+    +adicionarProduto(Produto): void
+    +removerProduto(Produto): void
+    +calcularTotal(): float
+}
+
+Cliente --> Pedido : "1..*"
+Pedido --> Produto : "1..*"
+Cliente --> Carrinho : "1"
+Carrinho --> Produto : "0..*"
+@enduml

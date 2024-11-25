@@ -1,0 +1,44 @@
+@startsalt
+title Sistema de Autenticação e Navegação
+header <b>Tela de Acesso</b> | Desenvolvido com PlantUML Salt
+footer <color:gray>Versão 1.0 - © 2024</color>
+legend
+Este wireframe apresenta funcionalidades de autenticação, navegação e ações principais
+end legend
+{+
+    {/ <b>Login | Cadastro | Recuperação de Senha | Sobre }
+    ..
+    == <u>Autenticação</u> ==
+    {
+        { Login<&person> | "Digite seu nome de usuário" }
+        { Senha<&key> | "Digite sua senha" }
+        [ Entrar ]
+        [ <&circle-x> Esqueci minha senha ]
+        --
+        [ Login com Google ]
+        [ Login com Facebook ]
+    }
+    ==
+    == <u>Pesquisa</u> ==
+    {
+        "Pesquisar..." | [ Buscar<&magnifying-glass> ]
+    }
+    ==
+    == <u>Menu Principal</u> ==
+    {
+        [ <&house> Início ]
+        [ <&folder> Meus Arquivos ]
+        [ <&gear> Configurações ]
+        [ <&info-circle> Sobre ]
+        --
+        [ <&account-logout> Sair ]
+    }
+    ..
+    == <u>Status do Sistema</u> ==
+    {
+        [<color:green>Online</color>] | "Todos os serviços operando normalmente."
+        --
+        [<color:red>Offline</color>] | "Manutenção programada para 15:00."
+    }
+}
+@endsalt

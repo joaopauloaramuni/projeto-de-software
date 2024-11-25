@@ -1,0 +1,42 @@
+@startjson
+{
+    "Cliente": {
+        "id": "INT",
+        "nome": "VARCHAR",
+        "email": "VARCHAR",
+        "telefone": "VARCHAR",
+        "endereco": {
+            "rua": "VARCHAR",
+            "numero": "INT",
+            "cidade": "VARCHAR",
+            "estado": "VARCHAR",
+            "cep": "VARCHAR"
+        }
+    },
+    "Pedido": {
+        "id": "INT",
+        "data": "DATE",
+        "total": "DECIMAL",
+        "status": "VARCHAR",
+        "itens": [
+            {
+                "produto_id": "INT",
+                "quantidade": "INT",
+                "subtotal": "DECIMAL"
+            }
+        ],
+        "pagamento": {
+            "metodo": "VARCHAR",
+            "data": "DATE",
+            "valor": "DECIMAL"
+        }
+    },
+    "Produto": {
+        "id": "INT",
+        "nome": "VARCHAR",
+        "descricao": "VARCHAR",
+        "preco": "DECIMAL",
+        "estoque": "INT"
+    }
+}
+@endjson

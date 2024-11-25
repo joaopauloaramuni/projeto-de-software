@@ -1,0 +1,33 @@
+@startuml
+package "Usuários" {
+    object Alice
+    object Bob
+}
+
+package "Sistemas Internos" {
+    object Charlie
+    object Sistema
+    object BancoDeDados
+}
+
+Alice --> Bob : Solicitação Inicial
+Bob --> Sistema : Validar Dados
+Sistema --> BancoDeDados : Consultar Dados
+BancoDeDados --> Sistema : Resultado da Consulta
+Sistema --> Bob : Dados Validados
+Bob --> Charlie : Encaminhar Solicitação
+Charlie --> Sistema : Processar Solicitação
+Sistema --> BancoDeDados : Atualizar Registro
+BancoDeDados --> Sistema : Confirmação de Atualização
+Sistema --> Charlie : Resultado do Processamento
+Charlie --> Alice : Resposta Final
+
+note left of Alice
+  Alice é o usuário que inicia o processo
+end note
+
+note right of BancoDeDados
+  BancoDeDados armazena as informações
+  usadas no processamento.
+end note
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+start
+:Iniciar processo;
+
+partition "Fase 1" {
+    :Executar tarefa 1;
+    if (Tarefa 1 concluída?) then (sim)
+        :Executar tarefa 2;
+        :Enviar resultado;
+    else (não)
+        :Tentar novamente;
+        :Verificar log de erro;
+    endif
+}
+
+partition "Fase 2" {
+    :Preparar dados para próxima etapa;
+    :Verificar disponibilidade de recursos;
+    if (Recursos disponíveis?) then (sim)
+        :Iniciar execução de tarefa 3;
+    else (não)
+        :Aguardar recursos;
+    endif
+}
+
+fork
+    :Tarefa paralela 1;
+    :Tarefa paralela 2;
+    :Tarefa paralela 3;
+fork again
+    :Tarefa paralela 4;
+    :Tarefa paralela 5;
+end fork
+
+:Finalizar tarefas paralelas;
+
+stop
+@enduml

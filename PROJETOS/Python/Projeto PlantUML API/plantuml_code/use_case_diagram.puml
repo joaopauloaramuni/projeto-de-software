@@ -1,0 +1,15 @@
+@startuml
+actor Cliente
+actor Administrador
+
+Cliente -> (Fazer Pedido)
+(Fazer Pedido) --> (Confirmar Pagamento) : <<include>>
+
+(Fazer Pedido) ..> (Cancelar Pedido) : <<extend>>
+(Fazer Pedido) ..> (Aplicar Desconto) : <<extend>>
+
+Administrador --> (Gerenciar Pedidos)
+(Confirmar Pagamento) ..> (Verificar Saldo) : <<include>>
+(Confirmar Pagamento) ..> (Notificar Cliente) : <<include>>
+
+@enduml
