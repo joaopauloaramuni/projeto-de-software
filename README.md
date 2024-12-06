@@ -7,7 +7,7 @@
         </tr> 
         <tr>
             <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
             </td>
         </tr>
         <tr>
@@ -37,3 +37,23 @@ https://engsoftmoderna.info/
 <br>https://joeyoder.com/PDFs/mud.pdf
 <br>https://www.branas.io/index.html
 <br>https://refactoring.guru/pt-br/
+
+-----
+
+<div align="center">
+    <table>
+        <tr>
+         <td align="center"></td>
+        </tr> 
+        <tr>
+            <td>
+                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+        </tr> 
+    </table>
+</div>
+
+-----
