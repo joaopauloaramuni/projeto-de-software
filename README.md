@@ -26,6 +26,8 @@ https://engsoftmoderna.info/
 
 -----
 
-<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+</div>
 
 -----
