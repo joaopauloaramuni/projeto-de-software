@@ -24,20 +24,6 @@ https://engsoftmoderna.info/
 
 -----
 
-<div align="center">
-    <table>
-        <tr>
-         <td align="center"></td>
-        </tr> 
-        <tr>
-            <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"></td>
-        </tr> 
-    </table>
-</div>
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
 
 -----
