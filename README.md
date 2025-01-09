@@ -11,6 +11,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 2°Sem 2024
 - 1°Sem 2025
 
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PDF)
 - [Discussões](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/DISCUSSO%CC%83ES)
