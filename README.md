@@ -11,18 +11,27 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 2°Sem 2024
 - 1°Sem 2025
 
-https://engsoftmoderna.info/
-<br>https://martinfowler.com/
-<br>https://www.thoughtworks.com/pt-br/radar
-<br>https://dl.acm.org/journal/jsme
-<br>https://onlinelibrary.wiley.com/journal/20477481
-<br>https://drawio.com/
-<br>https://astah.net/products/free-student-license/
-<br>https://plantuml.com/
-<br>https://www.figma.com/pt-br/templates/
-<br>https://joeyoder.com/PDFs/mud.pdf
-<br>https://www.branas.io/index.html
-<br>https://refactoring.guru/pt-br/
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PDF)
+- [Discussões](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/DISCUSSÕES)
+- [Projetos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PROJETOS)
+- [Quizzes](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/QUIZZES)
+- [Exercícios de revisão](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/REVISÃO)
+- [Trabalhos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/TRABALHOS)
+
+#### Links úteis:
+- [Engenharia de Software Moderna](https://engsoftmoderna.info/)
+- [Martin Fowler](https://martinfowler.com/)
+- [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+- [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
+- [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
+- [Draw.io (Diagramas)](https://drawio.com/)
+- [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
+- [PlantUML (Diagramas UML)](https://plantuml.com/)
+- [Figma - Templates](https://www.figma.com/pt-br/templates/)
+- [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
+- [Branas.io](https://www.branas.io/index.html)
+- [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 
 -----
 
