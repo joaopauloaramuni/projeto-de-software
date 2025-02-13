@@ -30,10 +30,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Draw.io (Diagramas)](https://drawio.com/)
 - [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
 - [PlantUML (Diagramas UML)](https://plantuml.com/)
-- [Figma - Templates](https://www.figma.com/pt-br/templates/)
+- [Figma](https://www.figma.com/pt-br/)
 - [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
 - [Branas.io](https://www.branas.io/index.html)
 - [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+
+##### Figma - Templates:
+- [Figma - Templates](https://www.figma.com/pt-br/templates/)
+- [Template Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
 
 -----
 
