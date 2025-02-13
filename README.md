@@ -37,7 +37,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### Figma - Templates:
 - [Figma - Templates](https://www.figma.com/pt-br/templates/)
-- [Template Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
+- [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
+- [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
+- [Figma - Community - Template REST API](https://www.figma.com/community/file/1275291490973723744)
+- [Figma - Community - Template Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
+- [Figma - Community - Architecture Diagram Components - Example - Multiplayer](https://www.figma.com/community/file/989634471195357925)
 
 -----
 
