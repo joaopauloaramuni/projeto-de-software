@@ -41,6 +41,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
 - [Figma - Community - Template - AWS Diagram Software](https://www.figma.com/community/file/989585391556898521)
 - [Figma - Community - Template - REST API](https://www.figma.com/community/file/1275291490973723744)
+- [Figma - Community - Template - Microservices](https://www.figma.com/community/file/1289282634966901135)
 - [Figma - Community - Template - Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
 - [Figma - Community - Example - Architecture Diagram Components - Multiplayer](https://www.figma.com/community/file/989634471195357925)
 
