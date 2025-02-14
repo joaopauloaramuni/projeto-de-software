@@ -36,7 +36,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 
 ##### Figma - Templates:
-- [Figma - Templates](https://www.figma.com/pt-br/templates/)
+- [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
 - [Figma - Community - Template - AWS Diagram Software](https://www.figma.com/community/file/989585391556898521)
