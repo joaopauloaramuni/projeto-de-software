@@ -1,6 +1,6 @@
 -----
 
-<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
+<img alt="pucminas" src="https://joaopauloaramuni.github.io/image/FUNDOCOREUCAPA.jpg?raw=true"/>
 
 -----
 
@@ -51,7 +51,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 -----
 
 <div align="center">
-  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+  <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft.png?raw=true"/>
 </div>
 
 -----
