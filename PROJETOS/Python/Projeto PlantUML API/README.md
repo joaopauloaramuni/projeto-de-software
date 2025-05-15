@@ -10,51 +10,51 @@ O PlantUML é uma ferramenta open-source criada em 2009 com o propósito de gera
 
 ## Capturas de Tela
 
-| <img src="plantuml_diagrams/activity_diagram.png" alt="activity_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/activity_diagram.png" alt="activity_diagram"/> |
 |:---------------------:|
 | activity_diagram |
 
-| <img src="plantuml_diagrams/class_diagram.png" alt="class_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/class_diagram.png" alt="class_diagram"/> |
 |:---------------------:|
 | class_diagram |
 
-| <img src="plantuml_diagrams/communication_diagram.png" alt="communication_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/communication_diagram.png" alt="communication_diagram"/> |
 |:---------------------:|
 | communication_diagram |
 
-| <img src="plantuml_diagrams/component_diagram.png" alt="component_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/component_diagram.png" alt="component_diagram"/> |
 |:---------------------:|
 | component_diagram |
 
-| <img src="plantuml_diagrams/deployment_diagram.png" alt="deployment_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/deployment_diagram.png" alt="deployment_diagram"/> |
 |:---------------------:|
 | deployment_diagram |
 
-| <img src="plantuml_diagrams/entity_relationship_diagram.png" alt="entity_relationship_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/entity_relationship_diagram.png" alt="entity_relationship_diagram"/> |
 |:---------------------:|
 | entity_relationship_diagram |
 
-| <img src="plantuml_diagrams/json_diagram.png" alt="json_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/json_diagram.png" alt="json_diagram"/> |
 |:---------------------:|
 | json_diagram |
 
-| <img src="plantuml_diagrams/package_diagram.png" alt="package_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/package_diagram.png" alt="package_diagram"/> |
 |:---------------------:|
 | package_diagram |
 
-| <img src="plantuml_diagrams/sequence_diagram.png" alt="sequence_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/sequence_diagram.png" alt="sequence_diagram"/> |
 |:---------------------:|
 | sequence_diagram |
 
-| <img src="plantuml_diagrams/state_diagram.png" alt="state_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/state_diagram.png" alt="state_diagram"/> |
 |:---------------------:|
 | state_diagram |
 
-| <img src="plantuml_diagrams/use_case_diagram.png" alt="use_case_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/use_case_diagram.png" alt="use_case_diagram"/> |
 |:---------------------:|
 | use_case_diagram |
 
-| <img src="plantuml_diagrams/wireframe_diagram.png" alt="wireframe_diagram"/> |
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/wireframe_diagram.png" alt="wireframe_diagram"/> |
 |:---------------------:|
 | wireframe_diagram |
 
