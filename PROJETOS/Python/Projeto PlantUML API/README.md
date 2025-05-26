@@ -58,6 +58,10 @@ O PlantUML é uma ferramenta open-source criada em 2009 com o propósito de gera
 |:---------------------:|
 | wireframe_diagram |
 
+| <img src="https://joaopauloaramuni.github.io/python-imgs/PlantUML_API/plantuml_diagrams/archimate_diagram.png" alt="archimate_diagram"/> |
+|:---------------------:|
+| archimate_diagram |
+
 ---
 
 ## Funções
@@ -99,6 +103,7 @@ O PlantUML é uma ferramenta open-source criada em 2009 com o propósito de gera
      - `generate_entity_relationship_diagram` (Diagrama de Entidade-Relacionamento)
      - `generate_json_diagram` (Diagrama Baseado em JSON)
      - `generate_wireframe_diagram` (Diagrama de Wireframe)
+     - `generate_archimate_diagram` (Diagrama de Archimate)
 
 Essas funções permitem a geração de diversos diagramas UML e diagramas específicos baseados em código PlantUML.
 
@@ -118,6 +123,7 @@ Essas funções permitem a geração de diversos diagramas UML e diagramas espec
 - [state_diagram.puml](plantuml_code/state_diagram.puml)
 - [use_case_diagram.puml](plantuml_code/use_case_diagram.puml)
 - [wireframe_diagram.puml](plantuml_code/wireframe_diagram.puml)
+- [archimate_diagram.puml](plantuml_code/archimate_diagram.puml)
 
 ---
 
