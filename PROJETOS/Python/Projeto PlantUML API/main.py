@@ -94,6 +94,13 @@ def generate_wireframe_diagram(client):
     save_diagram(client, plantuml_code, "wireframe_diagram.png")
 
 
+def generate_archimate_diagram(client):
+    """Gera um diagrama de archimate."""
+    file_path = os.path.join("plantuml_code", "archimate_diagram.puml")
+    plantuml_code = read_plantuml_code(file_path)
+    save_diagram(client, plantuml_code, "archimate_diagram.png")
+
+
 def save_diagram(client, plantuml_code, output_filename):
     """Gera e salva o diagrama no formato PNG."""
     try:
@@ -141,6 +148,8 @@ def main():
     generate_json_diagram(client)
     print("*" * 150)
     generate_wireframe_diagram(client)
+    print("*" * 150)
+    generate_archimate_diagram(client)
     print("*" * 150)
     print("Todos os diagramas foram gerados com sucesso.")
     print("*" * 150)
