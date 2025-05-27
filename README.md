@@ -34,6 +34,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
 - [Branas.io](https://www.branas.io/index.html)
 - [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+- [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
 ##### Figma - Templates:
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
