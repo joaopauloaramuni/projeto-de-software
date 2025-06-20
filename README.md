@@ -48,7 +48,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
-
 ##### Figma - Templates:
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
