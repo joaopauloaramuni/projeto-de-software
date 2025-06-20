@@ -35,7 +35,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
 
 ##### 🛠️ Ferramentas de desenho e diagramas
-- 🧩 [Draw.io (Diagramas)](https://drawio.com/)
+- 🖼️ [Draw.io (Diagramas)](https://drawio.com/)
 - 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
 - 📐 [PlantUML (Diagramas UML)](https://plantuml.com/)
 - 🎨 [Figma](https://www.figma.com/pt-br/)
