@@ -48,18 +48,28 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
-##### 🎨 Figma - Templates:
+##### 🎨 Figma templates
+
+###### 🗂️ Figma - Templates gerais
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
+
+###### ☁️ Figma - Templates AWS / Arquitetura de sistemas
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
-- [Figma - Templates - Sequence Diagram](https://www.figma.com/templates/sequence-diagram-example/)
 - [Figma - Community - Template - AWS Diagram Software](https://www.figma.com/community/file/989585391556898521)
-- [Figma - Community - Template - REST API](https://www.figma.com/community/file/1275291490973723744)
-- [Figma - Community - Template - Microservices](https://www.figma.com/community/file/1289282634966901135)
-- [Figma - Community - Template - User Persona](https://www.figma.com/community/file/881830156311997001)
-- [Figma - Community - Template - Class Diagram](https://www.figma.com/community/widget/1223307422838321651)
 - [Figma - Community - Template - Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
 - [Figma - Community - Example - Architecture Diagram Components - Multiplayer](https://www.figma.com/community/file/989634471195357925)
+
+###### 🔁 Figma - Diagramas de sequência e de classe
+- [Figma - Templates - Sequence Diagram](https://www.figma.com/templates/sequence-diagram-example/)
+- [Figma - Community - Template - Class Diagram](https://www.figma.com/community/widget/1223307422838321651)
+
+###### 🌐 Figma - APIs e microserviços
+- [Figma - Community - Template - REST API](https://www.figma.com/community/file/1275291490973723744)
+- [Figma - Community - Template - Microservices](https://www.figma.com/community/file/1289282634966901135)
+
+###### 👤 Figma - UX / Personas
+- [Figma - Community - Template - User Persona](https://www.figma.com/community/file/881830156311997001)
 
 -----
 
@@ -68,4 +78,3 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 </div>
 
 -----
- 
