@@ -24,31 +24,31 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Links úteis:
 
-##### 🏷️ #Referências-Gerais
+##### 🏷️ Referências gerais
 - 📘 [Engenharia de Software Moderna](https://engsoftmoderna.info/)
 - 🧠 [Martin Fowler](https://martinfowler.com/)
 - 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
 - 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 
-##### 🏷️ #Periódicos-Científicos
+##### 🏷️ Periódicos científicos
 - 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
 - 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
 
-##### 🏷️ #Ferramentas-de-Diagramas
+##### 🏷️ Ferramentas de desenho e diagramas
 - 🧩 [Draw.io (Diagramas)](https://drawio.com/)
 - 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
 - 📐 [PlantUML (Diagramas UML)](https://plantuml.com/)
 - 🎨 [Figma](https://www.figma.com/pt-br/)
 
-##### 🏷️ #Artigos-Clássicos
+##### 🏷️ Artigos clássicos
 - 🧱 [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
 
-##### 🏷️ #Ferramentas-e-Recursos-Extras
+##### 🏷️ Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
-##### Figma - Templates:
+##### 🎨 Figma - Templates:
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
