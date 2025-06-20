@@ -37,7 +37,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🛠️ Ferramentas de desenho e diagramas
 - 🖼️ [Draw.io (Diagramas)](https://drawio.com/)
 - 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
-- 📐 [PlantUML (Diagramas UML)](https://plantuml.com/)
+- 📐 [PlantUML - Diagramas UML](https://plantuml.com/)
+- 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
 - 🎨 [Figma](https://www.figma.com/pt-br/)
 
 ##### 🧾 Artigos clássicos
