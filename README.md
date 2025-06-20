@@ -42,11 +42,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 🧾 Artigos clássicos
 - 🧱 [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
+- 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
+
+##### 📜 Modelagem funcional com contratos
+- 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
 ##### 🚀 Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
-- 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
 
 ##### 🎨 Figma templates
 
