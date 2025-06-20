@@ -23,19 +23,31 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Trabalhos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/TRABALHOS)
 
 #### Links úteis:
-- [Engenharia de Software Moderna](https://engsoftmoderna.info/)
-- [Martin Fowler](https://martinfowler.com/)
-- [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
-- [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
-- [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
-- [Draw.io (Diagramas)](https://drawio.com/)
-- [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
-- [PlantUML (Diagramas UML)](https://plantuml.com/)
-- [Figma](https://www.figma.com/pt-br/)
-- [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
-- [Branas.io](https://www.branas.io/index.html)
-- [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
-- [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
+
+##### 🏷️ #Referências-Gerais
+- 📘 [Engenharia de Software Moderna](https://engsoftmoderna.info/)
+- 🧠 [Martin Fowler](https://martinfowler.com/)
+- 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+- 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+
+##### 🏷️ #Periódicos-Científicos
+- 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
+- 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
+
+##### 🏷️ #Ferramentas-de-Diagramas
+- 🧩 [Draw.io (Diagramas)](https://drawio.com/)
+- 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
+- 📐 [PlantUML (Diagramas UML)](https://plantuml.com/)
+- 🎨 [Figma](https://www.figma.com/pt-br/)
+
+##### 🏷️ #Artigos-Clássicos
+- 🧱 [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
+
+##### 🏷️ #Ferramentas-e-Recursos-Extras
+- 💡 [Branas.io](https://www.branas.io/index.html)
+- 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+- 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
+
 
 ##### Figma - Templates:
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
