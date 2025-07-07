@@ -22,6 +22,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Exercícios de revisão](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/REVISA%CC%83O)
 - [Simulado](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/SIMULADO)
 - [Trabalhos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/TRABALHOS)
+- [Plano de Ensino](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PLANO%20DE%20ENSINO)
 
 #### Links úteis:
 
