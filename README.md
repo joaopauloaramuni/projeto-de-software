@@ -28,14 +28,30 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 #### Links úteis:
 
 ##### 📚 Referências gerais
-- 📘 [Engenharia de Software Moderna](https://engsoftmoderna.info/)
-- 🧠 [Martin Fowler](https://martinfowler.com/)
-- 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+
+###### 📌 Conceituação de Projeto de Software
+
+- 📕 [Software Engineering – Ian Sommerville](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978)
+- 📘 [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)
+- 📗 [Designing Software Architectures* – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)
 - 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+
+###### 🏛️ Arquitetura de Software
+
+- 🧠 [Martin Fowler](https://martinfowler.com/)
+- 📕 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
+- 📘 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
+- 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
+- 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
+- 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+
+----
 
 ##### 📖 Periódicos científicos
 - 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
 - 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
+
+----
 
 ##### 🛠️ Ferramentas de desenho e diagramas
 - 🖼️ [Draw.io (Diagramas)](https://drawio.com/)
@@ -44,16 +60,24 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
 - 🎨 [Figma](https://www.figma.com/pt-br/)
 
+----
+
 ##### 🧾 Artigos clássicos
 - 🧱 [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
 - 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 
+----
+
 ##### 📜 Modelagem funcional com contratos
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
+
+----
 
 ##### 🚀 Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+
+----
 
 ##### 🎨 Figma templates
 
