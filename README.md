@@ -39,11 +39,28 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 🏛️ Arquitetura de Software
 
 - 🧠 [Martin Fowler](https://martinfowler.com/)
-- 📕 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
-- 📘 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
+- 📕 [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- 📕 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246)
+- 📘 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- 📗 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
+- 📒 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
+- 📄 [Clean Architecture (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)  
 - 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
 - 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
 - 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+
+###### 🖼️ Modelagem Estrutural e Comportamental
+
+- 📘 [UML Distilled – Martin Fowler](https://www.amazon.com.br/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+- 📒 [Applying UML and Patterns – Craig Larman](https://www.amazon.com.br/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
+- 📖 [UML Diagram Types - Visual Paradigm (guia ilustrado)](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-diagram-types/)
+
+###### 📐 Padrões de Projeto
+
+- 📕 [Design Patterns: Elements of Reusable Object-Oriented Software – GoF (Gamma, Helm, Johnson, Vlissides)(https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- 📘 [Head First Design Patterns – Eric Freeman & Elisabeth Robson](https://www.amazon.com.br/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- 📂 [design-patterns-for-humans (Explicações simples)](https://github.com/kamranahmedse/design-patterns-for-humans)  
+- 📦 [Refactoring.Guru – Exemplos em múltiplas linguagens](https://github.com/RefactoringGuru)
 
 ----
 
@@ -76,6 +93,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🚀 Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+
+----
+
+##### 🎥 Vídeos / Palestras
+
+- 📽️ [Martin Fowler – Architecture](https://www.youtube.com/watch?v=DngAZyWMGR0)  
+- 📽️ [Google Tech Talks – Software Architecture](https://www.youtube.com/watch?v=7gZyF5PzqIs)  
+- 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/watch?v=2C-A1Y8iDr8)
 
 ----
 
