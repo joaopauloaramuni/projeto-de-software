@@ -59,14 +59,23 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 📕 [Design Patterns: Elements of Reusable Object-Oriented Software – GoF (Gamma, Helm, Johnson, Vlissides)(https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - 📘 [Head First Design Patterns – Eric Freeman & Elisabeth Robson](https://www.amazon.com.br/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- 📗 [Domain-Driven Design Distilled - Vaughn Vernon](https://www.amazon.com.br/Domain-driven-Design-Destilado-Vaughn-Vernon/dp/8550821241)
 - 📂 [design-patterns-for-humans (Explicações simples)](https://github.com/kamranahmedse/design-patterns-for-humans)  
 - 📦 [Refactoring.Guru – Exemplos em múltiplas linguagens](https://github.com/RefactoringGuru)
+
+###### ✔️ Qualidade de Projeto
+
+- 📕 [Code Complete – Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- 📘 [Clean Code – Robert C. Martin](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
+- 📗 [Design It! – Michael Keeling](https://www.amazon.com.br/Design-Micahel-Keeling/dp/1680502093)
+- 📂 [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 
 ----
 
 ##### 📖 Periódicos científicos
 - 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
 - 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
+- 📄 [IEEE Software - Measuring Software Quality](https://ieeexplore.ieee.org/document/544241)
 
 ----
 
@@ -100,8 +109,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🎥 Vídeos / Palestras
 
 - 📽️ [Martin Fowler – Architecture](https://www.youtube.com/watch?v=DngAZyWMGR0)  
-- 📽️ [Google Tech Talks – Software Architecture](https://www.youtube.com/watch?v=7gZyF5PzqIs)  
-- 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/watch?v=2C-A1Y8iDr8)
+- 📽️ [Tech Talks #7: Software Architecture – Building Systems That Fit Your Needs](https://www.youtube.com/watch?v=8MIL9MCY5TI&ab_channel=CIDGmbH)  
+- 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/playlist?list=PLLrf_044z4Jr19VrA7NCmHQ4Wfi8e8Qq7)
 
 ----
 
