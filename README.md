@@ -41,6 +41,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🧠 [Martin Fowler](https://martinfowler.com/)
 - 📕 [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - 📕 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246)
+- 📙 [Clean Architecture – Robert C. Martin](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
 - 📘 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
 - 📗 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
 - 📒 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
@@ -68,6 +69,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 📕 [Code Complete – Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 - 📘 [Clean Code – Robert C. Martin](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
+- 📔 [The Clean Coder – Robert C. Martin](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476)
 - 📗 [Design It! – Michael Keeling](https://www.amazon.com.br/Design-Micahel-Keeling/dp/1680502093)
 - 📂 [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 
