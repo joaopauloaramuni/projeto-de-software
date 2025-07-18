@@ -76,6 +76,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📐 [PlantUML - Diagramas UML](https://plantuml.com/)
 - 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
 - 🎨 [Figma](https://www.figma.com/pt-br/)
+- 🧩 [C4 Model – Modelo para visualização de arquitetura de software](https://c4model.com/)
 
 ----
 
