@@ -111,7 +111,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 🎥 Vídeos / Palestras
 
-- 📽️ [Martin Fowler – Architecture](https://www.youtube.com/watch?v=DngAZyWMGR0)  
+- 📽️ [Martin Fowler – Architecture](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- 📽️ [Rodrigo Branas – Clean Architecture](https://www.youtube.com/watch?v=cCc37q3CXuc)  
 - 📽️ [Tech Talks #7: Software Architecture – Building Systems That Fit Your Needs](https://www.youtube.com/watch?v=8MIL9MCY5TI&ab_channel=CIDGmbH)  
 - 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/playlist?list=PLLrf_044z4Jr19VrA7NCmHQ4Wfi8e8Qq7)
 
