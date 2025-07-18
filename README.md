@@ -58,7 +58,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 📐 Padrões de Projeto
 
-- 📕 [Design Patterns: Elements of Reusable Object-Oriented Software – GoF (Gamma, Helm, Johnson, Vlissides)(https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- 📕 [Design Patterns: Elements of Reusable Object-Oriented Software – GoF (Gamma, Helm, Johnson, Vlissides)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - 📘 [Head First Design Patterns – Eric Freeman & Elisabeth Robson](https://www.amazon.com.br/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 - 📗 [Domain-Driven Design Distilled - Vaughn Vernon](https://www.amazon.com.br/Domain-driven-Design-Destilado-Vaughn-Vernon/dp/8550821241)
 - 📂 [design-patterns-for-humans (Explicações simples)](https://github.com/kamranahmedse/design-patterns-for-humans)  
