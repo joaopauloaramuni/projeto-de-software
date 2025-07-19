@@ -107,7 +107,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🔧 [Software Architecture: A Roadmap – David Garlan](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf)  
   Um panorama da evolução da arquitetura de software até os anos 2000. Aponta caminhos futuros e reforça a importância da disciplina arquitetural.
 
-- 💣 [Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells – Ran Mo et al.](https://ieeexplore.ieee.org/document/7158503)  
+- 💣 [Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells – Ran Mo et al.](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Hotspot-Patterns.pdf)  
   Apresenta padrões formais para identificar *architecture smells* em grandes sistemas, como hubs excessivamente conectados e dependências cíclicas. Traz uma abordagem automatizada para detecção de hotspots estruturais em arquiteturas complexas.
 
 - 🧠 [Strategic Design and Domain-Driven Design – Eric Evans](https://www.domainlanguage.com/ddd/strategic-design/)  
