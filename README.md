@@ -198,6 +198,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 👤 Figma - User Persona Template
 - [Figma - Community - Template - User Persona](https://www.figma.com/community/file/881830156311997001)
 
+###### 🧱 Figma - C4 Model (Arquitetura de Software)
+- [Figma - Templates - C4 Model Examples](https://www.figma.com/templates/c4-model-examples/)
+- [Figma - Community - The C4 Model for Figma](https://www.figma.com/community/file/1122907722147721168/the-c4-model-for-figma)
+- [Figma - Community - Free Flowchart C4 Model for Visualising Software Architecture](https://www.figma.com/community/file/993021410825878148/free-flowchart-c4-model-for-visualising-software-architecture)
+
 -----
 
 <div align="center">
