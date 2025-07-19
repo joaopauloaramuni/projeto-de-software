@@ -133,7 +133,20 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ----
 
 ##### 📜 Modelagem funcional com contratos
-- 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)
+- 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)  
+  Demonstra exemplos práticos de como expressar restrições e contratos em modelos UML usando OCL (Object Constraint Language). Fundamental para validar invariantes, pré e pós-condições em modelagens formais.
+
+- 📘 [Modeling with OCL: A Complete Guide to the Object Constraint Language – Jos Warmer, Anneke Kleppe](https://www.amazon.com/Object-Constraint-Language-Getting-Models/dp/0321179366)  
+  Livro fundamental para quem deseja aprender a usar OCL na prática. Aborda desde conceitos básicos até expressões avançadas, com foco em aplicações reais e integração com UML.
+
+- 📕 [Applying UML and Patterns – Craig Larman (Cap. 11: Contracts)](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)  
+  Mostra como aplicar contratos em UML usando OCL e boas práticas. Ilustra como enriquecer diagramas com restrições formais para promover design robusto e orientado a requisitos precisos.
+
+- 📄 [Object Constraint Language (OCL): a Definitive Guide - J. Cabot & M. Gogolla](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf)
+  Apresenta uma visão abrangente do OCL como linguagem essencial na engenharia dirigida por modelos, com foco em restrições, consultas, transformações de modelos e geração de código.
+  
+- 📐 [Design by Contract – Bertrand Meyer (Extract from “Object-Oriented Software Construction”)](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Design-by-Contract.pdf)  
+  Introduz o conceito de *Design by Contract*, no qual pré-condições, pós-condições e invariantes definem os direitos e deveres de métodos e classes. Base teórica por trás de abordagens como OCL e Eiffel.
 
 ----
 
