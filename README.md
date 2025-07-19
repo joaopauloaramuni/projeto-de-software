@@ -160,6 +160,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🚀 Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
+- 📂 [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
 
 ----
 
@@ -170,6 +171,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📽️ [Simon Brown – C4 Model Explained](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - 📽️ [Tech Talks #7: Software Architecture – Building Systems That Fit Your Needs](https://www.youtube.com/watch?v=8MIL9MCY5TI&ab_channel=CIDGmbH)  
 - 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/playlist?list=PLLrf_044z4Jr19VrA7NCmHQ4Wfi8e8Qq7)
+- 📺 [GOTO Conferences – Software Architecture, Dev e Tech Trends](https://www.youtube.com/gotoconferences)
 
 ----
 
