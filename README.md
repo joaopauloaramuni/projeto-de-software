@@ -116,6 +116,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 💣 [Managing Technical Debt – Steve McConnell](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Managing-Technical-Debt.pdf)  
   Explica como identificar, monitorar e mitigar dívidas técnicas ao longo do ciclo de vida do projeto.
 
+- 🧰 [Documenting Architecture Decisions – Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)  
+  Apresenta o conceito de *Architecture Decision Records (ADRs)*, uma forma leve e rastreável de registrar decisões arquiteturais ao longo do tempo. Útil para manter a memória técnica viva e justificar escolhas de design em projetos reais.
+
+- 📦 [Hexagonal Architecture – Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)  
+  Propõe a separação entre lógica de negócio e infraestrutura por meio de portas e adaptadores. Uma abordagem que favorece testabilidade, flexibilidade e baixo acoplamento em arquiteturas modernas.
+
 ----
 
 ##### 📜 Modelagem funcional com contratos
