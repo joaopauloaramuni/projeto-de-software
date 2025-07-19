@@ -93,7 +93,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ----
 
-##### 🧾 Artigos clássicos
+##### 🧾 Artigos clássicos sugeridos
 
 - 🧱 [The Big Ball of Mud](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf)
   Um artigo clássico que discute sistemas com arquitetura frágil e desorganizada. Útil para refletir sobre más práticas recorrentes e a necessidade de boas decisões arquiteturais.
