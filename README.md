@@ -57,6 +57,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
 - 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
 - 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+  - [PDF - Volume 32 - Abril/2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Thoughtworks-Technology-Radar-vol-32-pt.pdf)
 
 ###### 🖼️ Modelagem Estrutural e Comportamental
 
