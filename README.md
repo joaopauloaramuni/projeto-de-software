@@ -36,6 +36,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📘 [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)
 - 📗 [Designing Software Architectures* – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)
 - 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+  - [PDF](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/SWEBOK/swebok-v4.pdf)
 
 ###### 🏛️ Arquitetura de Software
 
