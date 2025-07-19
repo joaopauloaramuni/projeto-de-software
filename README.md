@@ -32,11 +32,17 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 📌 Conceituação de Projeto de Software
 
-- 📕 [Software Engineering – Ian Sommerville](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978)
-- 📘 [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)
-- 📗 [Designing Software Architectures* – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)
-- 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-  - [PDF](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/SWEBOK/swebok-v4.pdf)
+- 📕 [Software Engineering – Ian Sommerville](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978)  
+  Obra clássica que aborda de forma abrangente os principais conceitos, processos e práticas da engenharia de software, amplamente utilizada em cursos e na indústria.
+
+- 📘 [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)  
+  Livro gratuito e atualizado que trata da engenharia de software com foco em práticas modernas, como integração contínua, microserviços e DevOps, com exemplos em Java e Python.
+
+- 📗 [Designing Software Architectures* – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)  
+  Guia prático para projetar arquiteturas de software usando uma abordagem baseada em atributos de qualidade e decisões arquiteturais fundamentadas.
+
+- 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
+  - [PDF](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/SWEBOK/swebok-v4.pdf) - Guia oficial do IEEE que organiza e descreve o corpo de conhecimento essencial da engenharia de software, servindo como referência para profissionais, educadores e certificações.
 
 ###### 🏛️ Arquitetura de Software
 
