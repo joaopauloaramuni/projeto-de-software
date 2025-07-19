@@ -16,6 +16,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PDF)
+- [Artigos sugeridos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/ARTIGOS)
 - [Discussões](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/DISCUSSO%CC%83ES)
 - [Projetos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PROJETOS)
 - [Quizzes](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/QUIZZES)
@@ -93,8 +94,27 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ----
 
 ##### 🧾 Artigos clássicos
-- 🧱 [The Big Ball of Mud - PDF](https://joeyoder.com/PDFs/mud.pdf)
-- 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
+
+- 🧱 [The Big Ball of Mud](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf)
+  Um artigo clássico que discute sistemas com arquitetura frágil e desorganizada. Útil para refletir sobre más práticas recorrentes e a necessidade de boas decisões arquiteturais.
+
+- 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)  
+  Explica o estilo de arquitetura baseado em microserviços, incluindo vantagens, desvantagens e comparações com arquiteturas monolíticas.
+
+- 📜 [On the Criteria To Be Used in Decomposing Systems into Modules – David Parnas](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Criteria-for-Modularization.pdf)  
+  Um marco na engenharia de software. Introduz a ideia de modularidade baseada em ocultação de informações, base para o design orientado à manutenção.
+
+- 🔧 [Software Architecture: A Roadmap – David Garlan](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf)  
+  Um panorama da evolução da arquitetura de software até os anos 2000. Aponta caminhos futuros e reforça a importância da disciplina arquitetural.
+
+- 💣 [Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells – Ran Mo et al.](https://ieeexplore.ieee.org/document/7158503)  
+  Apresenta padrões formais para identificar *architecture smells* em grandes sistemas, como hubs excessivamente conectados e dependências cíclicas. Traz uma abordagem automatizada para detecção de hotspots estruturais em arquiteturas complexas.
+
+- 🧠 [Strategic Design and Domain-Driven Design – Eric Evans](https://www.domainlanguage.com/ddd/strategic-design/)  
+  Introduz conceitos fundamentais do DDD como Bounded Contexts e alinhamento entre domínio e arquitetura. Essencial para projetos complexos.
+
+- 💣 [Managing Technical Debt – Steve McConnell](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Managing-Technical-Debt.pdf)  
+  Explica como identificar, monitorar e mitigar dívidas técnicas ao longo do ciclo de vida do projeto.
 
 ----
 
