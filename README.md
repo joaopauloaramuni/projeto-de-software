@@ -82,14 +82,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📗 [Design It! – Michael Keeling](https://www.amazon.com.br/Design-Micahel-Keeling/dp/1680502093)
 - 📂 [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 
-----
+-----
 
 ##### 📖 Periódicos científicos
 - 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
 - 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
 - 📄 [IEEE Software - Measuring Software Quality](https://ieeexplore.ieee.org/document/544241)
 
-----
+-----
 
 ##### 🛠️ Ferramentas de desenho e diagramas
 - 🖼️ [Draw.io (Diagramas)](https://drawio.com/)
@@ -99,7 +99,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🎨 [Figma](https://www.figma.com/pt-br/)
 - 🧩 [C4 Model – Modelo para visualização de arquitetura de software](https://c4model.com/)
 
-----
+-----
 
 ##### 🧾 Artigos clássicos e leituras sugeridas
 
@@ -141,7 +141,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📄 [Parallel Changes in Large Scale Software Development: An Observational Case Study – Dewayne E. Perry, Harvey P. Siy, Lawrence G. Votta](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Parallel-Changes-in-Large-Scale-Software-Development.pdf)  
   Estudo sobre os desafios e padrões do desenvolvimento paralelo em larga escala e seu impacto na qualidade e entrega do software.
 
-----
+-----
 
 ##### 📜 Modelagem funcional com contratos
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)  
@@ -159,14 +159,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📐 [Design by Contract – Bertrand Meyer (Extract from “Object-Oriented Software Construction”)](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Design-by-Contract.pdf)  
   Introduz o conceito de *Design by Contract*, no qual pré-condições, pós-condições e invariantes definem os direitos e deveres de métodos e classes. Base teórica por trás de abordagens como OCL e Eiffel.
 
-----
+-----
 
 ##### 🚀 Recursos extras
 - 💡 [Branas.io](https://www.branas.io/index.html)
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
 - 📂 [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
 
-----
+-----
 
 ##### 🎥 Vídeos / Palestras
 
@@ -177,7 +177,18 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/playlist?list=PLLrf_044z4Jr19VrA7NCmHQ4Wfi8e8Qq7)
 - 📺 [GOTO Conferences – Software Architecture, Dev e Tech Trends](https://www.youtube.com/gotoconferences)
 
-----
+-----
+
+##### 📊 Tendências e pesquisas
+
+###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
+Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
+
+- [Dev Skiller Report 2025](https://devskiller.com/it-skills-report/)
+- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
+- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
+
+-----
 
 ##### 🎨 Figma templates
 
