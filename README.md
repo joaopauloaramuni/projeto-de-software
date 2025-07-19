@@ -46,14 +46,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 🏛️ Arquitetura de Software
 
-- 🧠 [Martin Fowler](https://martinfowler.com/)
+- 🧠 [Blog - Martin Fowler](https://martinfowler.com/)
 - 📕 [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - 📕 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246)
-- 📙 [Clean Architecture – Robert C. Martin](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
+- 📄 [Blog - Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)  
+- 📙 [Clean Architecture – Robert C. Martin (Uncle Bob)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
 - 📘 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
 - 📗 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
 - 📒 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
-- 📄 [Clean Architecture (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)  
 - 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
 - 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
 - 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
