@@ -162,9 +162,18 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 -----
 
 ##### 🚀 Recursos extras
-- 💡 [Branas.io](https://www.branas.io/index.html)
-- 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)
-- 📂 [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+
+- 📄 [arXiv – Software Engineering (cs.SE)](https://arxiv.org/list/cs.SE/recent)  
+  Repositório de preprints com artigos técnicos e pesquisas recentes em engenharia de software.
+
+- 💡 [Branas.io](https://www.branas.io/index.html)  
+  Blog e cursos de Rodrigo Branas sobre arquitetura, design e práticas modernas de desenvolvimento.
+
+- 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)  
+  Explicações visuais e exemplos de padrões de projeto e técnicas de refatoração.
+
+- 📂 [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)  
+  Guia completo e gratuito para entrevistas e fundamentos de design de sistemas em grande escala.
 
 -----
 
