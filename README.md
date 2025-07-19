@@ -109,7 +109,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)  
   Explica o estilo de arquitetura baseado em microserviços, incluindo vantagens, desvantagens e comparações com arquiteturas monolíticas.
 
-- 🧠 [No Silver Bullet – Essence and Accidents of Software Engineering](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/No-Silver-Bullet-Essence-and-Accidents-of-Software-Engineering.pdf)  
+- 💥 [No Silver Bullet – Essence and Accidents of Software Engineering](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/No-Silver-Bullet-Essence-and-Accidents-of-Software-Engineering.pdf)  
   Um artigo influente de Frederick P. Brooks, Jr. que argumenta que não há solução única ("bala de prata") capaz de trazer melhorias drásticas na produtividade do desenvolvimento de software, destacando a distinção entre complexidade essencial e acidental.
   
 - 📜 [On the Criteria To Be Used in Decomposing Systems into Modules – David Parnas](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Criteria-for-Modularization.pdf)  
