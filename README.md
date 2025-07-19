@@ -93,7 +93,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ----
 
-##### 🧾 Artigos clássicos sugeridos
+##### 🧾 Artigos clássicos e leituras sugeridas
 
 - 🧱 [The Big Ball of Mud](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf)
   Um artigo clássico que discute sistemas com arquitetura frágil e desorganizada. Útil para refletir sobre más práticas recorrentes e a necessidade de boas decisões arquiteturais.
@@ -122,6 +122,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📦 [Hexagonal Architecture – Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)  
   Propõe a separação entre lógica de negócio e infraestrutura por meio de portas e adaptadores. Uma abordagem que favorece testabilidade, flexibilidade e baixo acoplamento em arquiteturas modernas.
 
+- 🔄 [The Reactive Manifesto](https://www.reactivemanifesto.org/)  
+  Apresenta os princípios da Reactive Architecture (Responsiva, Resiliente, Elástica e Orientada a Mensagens). Útil para discutir arquiteturas modernas de sistemas distribuídos.
+
+###### 📚 Extras avançados
+
+- 📄 [Parallel Changes in Large Scale Software Development: An Observational Case Study – Dewayne E. Perry, Harvey P. Siy, Lawrence G. Votta](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Parallel-Changes-in-Large-Scale-Software-Development.pdf)  
+  Estudo sobre os desafios e padrões do desenvolvimento paralelo em larga escala e seu impacto na qualidade e entrega do software.
+
 ----
 
 ##### 📜 Modelagem funcional com contratos
@@ -138,7 +146,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🎥 Vídeos / Palestras
 
 - 📽️ [Martin Fowler – Architecture](https://www.youtube.com/watch?v=DngAZyWMGR0)
-- 📽️ [Rodrigo Branas – Clean Architecture](https://www.youtube.com/watch?v=cCc37q3CXuc)  
+- 📽️ [Rodrigo Branas – Clean Architecture](https://www.youtube.com/watch?v=cCc37q3CXuc)
+- 📽️ [Simon Brown – C4 Model Explained](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - 📽️ [Tech Talks #7: Software Architecture – Building Systems That Fit Your Needs](https://www.youtube.com/watch?v=8MIL9MCY5TI&ab_channel=CIDGmbH)  
 - 📺 [Domain-Driven Design - Vlad Khononov (DDD Book Tour)](https://www.youtube.com/playlist?list=PLLrf_044z4Jr19VrA7NCmHQ4Wfi8e8Qq7)
 
