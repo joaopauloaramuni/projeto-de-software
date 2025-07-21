@@ -158,7 +158,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### OCL - Object Constraint Language
+##### 🧩 OCL - Object Constraint Language
 
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)  
   Demonstra exemplos práticos de como expressar restrições e contratos em modelos UML usando OCL (Object Constraint Language). Fundamental para validar invariantes, pré e pós-condições em modelagens formais.
