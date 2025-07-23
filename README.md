@@ -187,10 +187,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### 🏗️ Roadmap Software Architect
+##### 🏗️ Roadmaps Software Design Architecture e Software Architect
 
 Um **roadmap** é um guia visual que apresenta etapas, habilidades ou conhecimentos necessários para atingir um objetivo específico. Ele ajuda a organizar o aprendizado ou desenvolvimento ao longo do tempo, mostrando caminhos recomendados e prioridades.
 
+- 🗺️ [Roadmap Software Design Architect - Roadmap.sh](https://roadmap.sh/software-design-architecture)
 - 🗺️ [Roadmap Software Architect - Roadmap.sh](https://roadmap.sh/software-architect)
 
 -----
