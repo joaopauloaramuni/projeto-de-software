@@ -150,7 +150,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 📜 Modelagem funcional com contratos
 
-**14.** 📄 [Object Constraint Language (OCL): a Definitive Guide - J. Cabot & M. Gogolla](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf)
+**14.** 📄 [Object Constraint Language (OCL): a Definitive Guide - J. Cabot & M. Gogolla](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf)  
   Apresenta uma visão abrangente do OCL como linguagem essencial na engenharia dirigida por modelos, com foco em restrições, consultas, transformações de modelos e geração de código.
   
 **15.** 📐 [Design by Contract – Bertrand Meyer (Extract from “Object-Oriented Software Construction”)](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Design-by-Contract.pdf)  
