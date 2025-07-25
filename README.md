@@ -104,57 +104,57 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🧾 Artigos clássicos e leituras sugeridas
 
 **1.** 🧱 [The Big Ball of Mud](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf)  
-  Um artigo clássico que discute sistemas com arquitetura frágil e desorganizada. Útil para refletir sobre más práticas recorrentes e a necessidade de boas decisões arquiteturais.
+➤ Um artigo clássico que discute sistemas com arquitetura frágil e desorganizada. Útil para refletir sobre más práticas recorrentes e a necessidade de boas decisões arquiteturais.
 
 **2.** 🧩 [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)  
-  Explica o estilo de arquitetura baseado em microserviços, incluindo vantagens, desvantagens e comparações com arquiteturas monolíticas.
+➤ Explica o estilo de arquitetura baseado em microserviços, incluindo vantagens, desvantagens e comparações com arquiteturas monolíticas.
 
 **3.** 💥 [No Silver Bullet – Essence and Accidents of Software Engineering](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/No-Silver-Bullet-Essence-and-Accidents-of-Software-Engineering.pdf)  
-  Um artigo influente de Frederick P. Brooks, Jr. que argumenta que não há solução única ("bala de prata") capaz de trazer melhorias drásticas na produtividade do desenvolvimento de software, destacando a distinção entre complexidade essencial e acidental.
+➤ Um artigo influente de Frederick P. Brooks, Jr. que argumenta que não há solução única ("bala de prata") capaz de trazer melhorias drásticas na produtividade do desenvolvimento de software, destacando a distinção entre complexidade essencial e acidental.
   
 **4.** 📜 [On the Criteria To Be Used in Decomposing Systems into Modules – David Parnas](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Criteria-for-Modularization.pdf)  
-  Um marco na engenharia de software. Introduz a ideia de modularidade baseada em ocultação de informações, base para o design orientado à manutenção.
+➤ Um marco na engenharia de software. Introduz a ideia de modularidade baseada em ocultação de informações, base para o design orientado à manutenção.
 
 **5.** 🔧 [Software Architecture: A Roadmap – David Garlan](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf)  
-  Um panorama da evolução da arquitetura de software até os anos 2000. Aponta caminhos futuros e reforça a importância da disciplina arquitetural.
+➤ Um panorama da evolução da arquitetura de software até os anos 2000. Aponta caminhos futuros e reforça a importância da disciplina arquitetural.
 
 **6.** 💣 [Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells – Ran Mo et al.](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Hotspot-Patterns.pdf)  
-  Apresenta padrões formais para identificar *architecture smells* em grandes sistemas, como hubs excessivamente conectados e dependências cíclicas. Traz uma abordagem automatizada para detecção de hotspots estruturais em arquiteturas complexas.
+➤ Apresenta padrões formais para identificar *architecture smells* em grandes sistemas, como hubs excessivamente conectados e dependências cíclicas. Traz uma abordagem automatizada para detecção de hotspots estruturais em arquiteturas complexas.
 
 **7.** 🧠 [Strategic Design and Domain-Driven Design – Eric Evans](https://www.domainlanguage.com/ddd/strategic-design/)  
-  Introduz conceitos fundamentais do DDD como Bounded Contexts e alinhamento entre domínio e arquitetura. Essencial para projetos complexos.
+➤ Introduz conceitos fundamentais do DDD como Bounded Contexts e alinhamento entre domínio e arquitetura. Essencial para projetos complexos.
 
 **8.** 💣 [Managing Technical Debt – Steve McConnell](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Managing-Technical-Debt.pdf)  
-  Explica como identificar, monitorar e mitigar dívidas técnicas ao longo do ciclo de vida do projeto.
+➤ Explica como identificar, monitorar e mitigar dívidas técnicas ao longo do ciclo de vida do projeto.
 
 **9.** 🧰 [Documenting Architecture Decisions – Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html)  
-  Apresenta o conceito de *Architecture Decision Records (ADRs)*, uma forma leve e rastreável de registrar decisões arquiteturais ao longo do tempo. Útil para manter a memória técnica viva e justificar escolhas de design em projetos reais.
+➤ Apresenta o conceito de *Architecture Decision Records (ADRs)*, uma forma leve e rastreável de registrar decisões arquiteturais ao longo do tempo. Útil para manter a memória técnica viva e justificar escolhas de design em projetos reais.
 
 **10.** 📦 [Hexagonal Architecture – Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)  
-  Propõe a separação entre lógica de negócio e infraestrutura por meio de portas e adaptadores. Uma abordagem que favorece testabilidade, flexibilidade e baixo acoplamento em arquiteturas modernas.
+➤ Propõe a separação entre lógica de negócio e infraestrutura por meio de portas e adaptadores. Uma abordagem que favorece testabilidade, flexibilidade e baixo acoplamento em arquiteturas modernas.
 
 ###### 📚 Extras avançados
 
 **11.** 📄 [Parallel Changes in Large Scale Software Development: An Observational Case Study – Dewayne E. Perry, Harvey P. Siy, Lawrence G. Votta](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Parallel-Changes-in-Large-Scale-Software-Development.pdf)  
-  Estudo sobre os desafios e padrões do desenvolvimento paralelo em larga escala e seu impacto na qualidade e entrega do software.
+➤ Estudo sobre os desafios e padrões do desenvolvimento paralelo em larga escala e seu impacto na qualidade e entrega do software.
 
 ###### 📖 Manifestos
 
 **12.** 🔄 [The Reactive Manifesto](https://www.reactivemanifesto.org/)  
-  Apresenta os princípios da Reactive Architecture (Responsiva, Resiliente, Elástica e Orientada a Mensagens). Útil para discutir arquiteturas modernas de sistemas distribuídos.
+➤ Apresenta os princípios da Reactive Architecture (Responsiva, Resiliente, Elástica e Orientada a Mensagens). Útil para discutir arquiteturas modernas de sistemas distribuídos.
 
 **13.** ⚡ [Agile Manifesto](https://agilemanifesto.org/)  
-  Define valores e princípios para desenvolvimento ágil, focando em colaboração, entrega rápida e adaptação a mudanças.
+➤ Define valores e princípios para desenvolvimento ágil, focando em colaboração, entrega rápida e adaptação a mudanças.
 
 -----
 
 ###### 📜 Modelagem funcional com contratos
 
 **14.** 📄 [Object Constraint Language (OCL): a Definitive Guide - J. Cabot & M. Gogolla](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf)  
-  Apresenta uma visão abrangente do OCL como linguagem essencial na engenharia dirigida por modelos, com foco em restrições, consultas, transformações de modelos e geração de código.
+➤ Apresenta uma visão abrangente do OCL como linguagem essencial na engenharia dirigida por modelos, com foco em restrições, consultas, transformações de modelos e geração de código.
   
 **15.** 📐 [Design by Contract – Bertrand Meyer (Extract from “Object-Oriented Software Construction”)](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Design-by-Contract.pdf)  
-  Introduz o conceito de *Design by Contract*, no qual pré-condições, pós-condições e invariantes definem os direitos e deveres de métodos e classes. Base teórica por trás de abordagens como OCL e Eiffel.
+➤ Introduz o conceito de *Design by Contract*, no qual pré-condições, pós-condições e invariantes definem os direitos e deveres de métodos e classes. Base teórica por trás de abordagens como OCL e Eiffel.
 
 -----
 
