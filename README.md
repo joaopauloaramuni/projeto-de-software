@@ -163,6 +163,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)  
   Demonstra exemplos práticos de como expressar restrições e contratos em modelos UML usando OCL (Object Constraint Language). Fundamental para validar invariantes, pré e pós-condições em modelagens formais.
 
+- 📗 [Análise e Design Orientados a Objetos Para Sistemas de Informação - Raul Wazlawick](https://www.amazon.com.br/An%C3%A1lise-Orientados-Objetos-Sistemas-Informa%C3%A7%C3%A3o/dp/8535279849)
+
 - 📘 [Modeling with OCL: A Complete Guide to the Object Constraint Language – Jos Warmer, Anneke Kleppe](https://www.amazon.com/Object-Constraint-Language-Getting-Models/dp/0321179366)  
   Livro fundamental para quem deseja aprender a usar OCL na prática. Aborda desde conceitos básicos até expressões avançadas, com foco em aplicações reais e integração com UML.
 
