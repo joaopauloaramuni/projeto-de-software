@@ -161,31 +161,32 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### 🧩 OCL - Object Constraint Language
 
 - 🔤 [IBM - Object Constraint Language - OCL - Sample](https://www.ibm.com/docs/en/dma?topic=models-object-constraint-language-ocl-sample)  
-  Demonstra exemplos práticos de como expressar restrições e contratos em modelos UML usando OCL (Object Constraint Language). Fundamental para validar invariantes, pré e pós-condições em modelagens formais.
+➤ Demonstra exemplos práticos de como expressar restrições e contratos em modelos UML usando OCL (Object Constraint Language). Fundamental para validar invariantes, pré e pós-condições em modelagens formais.
 
-- 📗 [Análise e Design Orientados a Objetos Para Sistemas de Informação - Raul Wazlawick](https://www.amazon.com.br/An%C3%A1lise-Orientados-Objetos-Sistemas-Informa%C3%A7%C3%A3o/dp/8535279849)
+- 📗 [Análise e Design Orientados a Objetos Para Sistemas de Informação - Raul Wazlawick](https://www.amazon.com.br/An%C3%A1lise-Orientados-Objetos-Sistemas-Informa%C3%A7%C3%A3o/dp/8535279849)  
+➤ Aborda conceitos fundamentais de análise e design orientados a objetos com foco na construção de sistemas de informação, incluindo práticas para modelagem rigorosa e uso de linguagens formais como OCL para garantir consistência nos modelos.
 
 - 📘 [Modeling with OCL: A Complete Guide to the Object Constraint Language – Jos Warmer, Anneke Kleppe](https://www.amazon.com/Object-Constraint-Language-Getting-Models/dp/0321179366)  
-  Livro fundamental para quem deseja aprender a usar OCL na prática. Aborda desde conceitos básicos até expressões avançadas, com foco em aplicações reais e integração com UML.
+➤ Livro fundamental para quem deseja aprender a usar OCL na prática. Aborda desde conceitos básicos até expressões avançadas, com foco em aplicações reais e integração com UML.
 
 - 📕 [Applying UML and Patterns – Craig Larman (Cap. 11: Contracts)](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)  
-  Mostra como aplicar contratos em UML usando OCL e boas práticas. Ilustra como enriquecer diagramas com restrições formais para promover design robusto e orientado a requisitos precisos.
+➤ Mostra como aplicar contratos em UML usando OCL e boas práticas. Ilustra como enriquecer diagramas com restrições formais para promover design robusto e orientado a requisitos precisos.
 
 -----
 
 ##### 🚀 Recursos extras
 
 - 📄 [arXiv – Software Engineering (cs.SE)](https://arxiv.org/list/cs.SE/recent)  
-  Repositório de preprints com artigos técnicos e pesquisas recentes em engenharia de software.
+➤ Repositório de preprints com artigos técnicos e pesquisas recentes em engenharia de software.
 
 - 💡 [Branas.io](https://www.branas.io/index.html)  
-  Blog e cursos de Rodrigo Branas sobre arquitetura, design e práticas modernas de desenvolvimento.
+➤ Blog e cursos de Rodrigo Branas sobre arquitetura, design e práticas modernas de desenvolvimento.
 
 - 🔧 [Refactoring Guru (em Português)](https://refactoring.guru/pt-br/)  
-  Explicações visuais e exemplos de padrões de projeto e técnicas de refatoração.
+➤ Explicações visuais e exemplos de padrões de projeto e técnicas de refatoração.
 
 - 📂 [The System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)  
-  Guia completo e gratuito para entrevistas e fundamentos de design de sistemas em grande escala.
+➤ Guia completo e gratuito para entrevistas e fundamentos de design de sistemas em grande escala.
 
 -----
 
