@@ -134,8 +134,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 **7.** 🧠 [Strategic Design and Domain-Driven Design – Eric Evans](https://www.domainlanguage.com/ddd/strategic-design/)  
 ➤ Introduz conceitos fundamentais do DDD como Bounded Contexts e alinhamento entre domínio e arquitetura. Essencial para projetos complexos.
 
-  **7.1.** 📄 [Domain-Driven Design Reference – Definitions and Pattern Summaries - Eric Evans, Domain Language, Inc.](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DDD_Reference_2015-03.pdf)  
-  ➤ Resumo conciso dos conceitos, definições e padrões do DDD apresentados por Eric Evans. Serve como guia rápido para consulta durante o desenho e a implementação de soluções alinhadas ao domínio.  
+   - **7.1.** 📄 [Domain-Driven Design Reference – Definitions and Pattern Summaries - Eric Evans, Domain Language, Inc.](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DDD_Reference_2015-03.pdf)  
+     ➤ Resumo conciso dos conceitos, definições e padrões do DDD apresentados por Eric Evans. Serve como guia rápido para consulta durante o desenho e a implementação de soluções alinhadas ao domínio.  
 
 **8.** 💣 [Managing Technical Debt – Steve McConnell](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Managing-Technical-Debt.pdf)  
 ➤ Explica como identificar, monitorar e mitigar dívidas técnicas ao longo do ciclo de vida do projeto.
