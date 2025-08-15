@@ -237,13 +237,13 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-#### 🎨 Figma
+##### 🎨 Figma
 
-##### 👨‍🏫 Figma - Education
+###### 👨‍🏫 Figma - Education
 - [Figma Education](https://www.figma.com/pt-br/education/)
 - [Figma Education - Apply](https://www.figma.com/education/apply)
 
-##### 🎨 Figma - Templates
+###### 🎨 Figma - Templates
 
 ###### 🗂️ Figma - Templates gerais
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
