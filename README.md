@@ -249,6 +249,13 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
 
+###### 💻 Figma - Portfólios Dev
+- [Figma - Community - Template - Dev 1](https://www.figma.com/community/file/1116246660507537002)
+- [Figma - Community - Template - Dev 2](https://www.figma.com/community/file/1387080701963671866)
+- [Figma - Community - Template - Dev 3](https://www.figma.com/community/file/1199400234468163757)
+- [Figma - Community - Template - Dev 4](https://www.figma.com/community/file/1308487677104759760)
+- [Figma - Community - Template - Dev 5](https://www.figma.com/community/file/1006095821656678611)
+
 ###### ☁️ Figma - Templates AWS / Arquitetura de sistemas
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
 - [Figma - Community - Template - AWS Diagram Software](https://www.figma.com/community/file/989585391556898521)
