@@ -237,13 +237,13 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-##### 🎨 Figma
+#### 🎨 Figma
 
-###### 👨‍🏫 Figma - Education
+##### 👨‍🏫 Figma - Education
 - [Figma Education](https://www.figma.com/pt-br/education/)
 - [Figma Education - Apply](https://www.figma.com/education/apply)
 
-###### 🎨 Figma - Templates
+##### 🎨 Figma - Templates
 
 ###### 🗂️ Figma - Templates gerais
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
@@ -255,6 +255,7 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 - [Figma - Community - Template - Dev 3](https://www.figma.com/community/file/1199400234468163757)
 - [Figma - Community - Template - Dev 4](https://www.figma.com/community/file/1308487677104759760)
 - [Figma - Community - Template - Dev 5](https://www.figma.com/community/file/1006095821656678611)
+- [Figma - Community - Template - Dev 6](https://www.figma.com/community/file/1117086389471494637)
 
 ###### ☁️ Figma - Templates AWS / Arquitetura de sistemas
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
