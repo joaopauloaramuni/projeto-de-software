@@ -287,19 +287,19 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 
 ##### 🎨 Templates e Exemplos de Diagramas de Pacotes (UML)
 
-###### 📌 Ferramentas com Modelos Prontos
+###### 📌 Ferramentas com modelos prontos
 - [EdrawMax – Templates de Package Diagram](https://www.edrawmax.com/templates/tag/package-diagram/)
 - [Lucid – Package Diagram Templates](https://lucid.co/templates/uml-package-diagram)  
 - [Visual Paradigm – Templates de Package Diagram](https://online.visual-paradigm.com/diagrams/templates/package-diagram/)  
 - [SmartDraw – Exemplos de Package Diagram](https://www.smartdraw.com/uml-diagram/examples/uml-package-diagram/?srsltid=AfmBOopA8B4QtzKMnNm5PFErDykBGztYqIlXPEDOUKutRlLnb8InDBWL)  
 
-###### 📖 Tutoriais e Guias Explicativos
+###### 📖 Tutoriais e guias explicativos
 - [Edraw – Como Criar um UML Package Diagram](https://edraw.wondershare.com/uml-package.html?srsltid=AfmBOorSSxwW32qlHC8Fgh2tdqQZHTwc4pTnpThZG1OFOxK7pD1aesk9)  
 - [Lucidchart – Tutorial UML Package Diagram](https://www.lucidchart.com/pages/tutorial/uml-package-diagram)  
 - [Draw.io – Introdução a UML Package Diagrams](https://www.drawio.com/blog/uml-package-diagrams)  
 - [Miro – O que é um UML Package Diagram?](https://miro.com/diagramming/what-is-a-uml-package-diagram/)  
 
-###### 📚 Exemplos de Referência
+###### 📚 Exemplos de referência
 - [UML Diagrams – Exemplos de Package Diagram](https://www.uml-diagrams.org/package-diagrams-examples.html)  
 
 -----
