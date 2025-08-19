@@ -288,9 +288,9 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 ##### 🎨 Templates e Exemplos de Diagramas de Pacotes (UML)
 
 ###### 📌 Ferramentas com Modelos Prontos
-- [EdrawMax – Templates de Package Diagram](https://www.edrawmax.com/templates/tag/package-diagram/)  
-- [Visual Paradigm – Templates de Package Diagram](https://online.visual-paradigm.com/diagrams/templates/package-diagram/)  
+- [EdrawMax – Templates de Package Diagram](https://www.edrawmax.com/templates/tag/package-diagram/)
 - [Lucid – Package Diagram Templates](https://lucid.co/templates/uml-package-diagram)  
+- [Visual Paradigm – Templates de Package Diagram](https://online.visual-paradigm.com/diagrams/templates/package-diagram/)  
 - [SmartDraw – Exemplos de Package Diagram](https://www.smartdraw.com/uml-diagram/examples/uml-package-diagram/?srsltid=AfmBOopA8B4QtzKMnNm5PFErDykBGztYqIlXPEDOUKutRlLnb8InDBWL)  
 
 ###### 📖 Tutoriais e Guias Explicativos
