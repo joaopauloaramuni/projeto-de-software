@@ -66,6 +66,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
   - [PDF - Volume 32 - Abril/2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Thoughtworks-Technology-Radar-vol-32-pt.pdf)
 
+###### 🗿 Monólitos vs Microsserviços
+
+- 📕 [Migrando Sistemas Monolíticos para Microsserviços - Sam Newman](https://novatec.com.br/livros/migrando-monoliticos-para-microsservicos/)
+- 📘 [Construindo Microsserviços - Sam Newman](https://novatec.com.br/livros/construindo-microservicos/)
+- 📗 [Microsserviços Prontos para Produção - Susan Fowler](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-para-Produ%C3%A7%C3%A3o-ebook/dp/B07N8X8TFD/)
+
 ###### 🖼️ Modelagem Estrutural e Comportamental
 
 - 📙 [Princípios de Análise e Projeto de Sistemas com UML - Eduardo Bezerra](https://www.amazon.com.br/Princ%C3%ADpios-An%C3%A1lise-Projetos-Sistemas-com/dp/8535226265)
