@@ -68,9 +68,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 🗿 Monólitos vs Microsserviços
 
-- 📕 [Migrando Sistemas Monolíticos para Microsserviços - Sam Newman](https://novatec.com.br/livros/migrando-monoliticos-para-microsservicos/)
-- 📘 [Construindo Microsserviços - Sam Newman](https://novatec.com.br/livros/construindo-microservicos/)
-- 📗 [Microsserviços Prontos para Produção - Susan Fowler](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-para-Produ%C3%A7%C3%A3o-ebook/dp/B07N8X8TFD/)
+- 📕 [Migrando Sistemas Monolíticos para Microsserviços - Sam Newman](https://www.amazon.com.br/dp/6586057043)
+- 📘 [Criando Microsserviços: Projetando sistemas com componentes menores e mais especializados - Sam Newman](https://www.amazon.com.br/dp/6586057884)
+- 📗 [Microsserviços Prontos para Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software - Susan Fowler](https://www.amazon.com.br/dp/8575226215)
 
 ###### 🖼️ Modelagem Estrutural e Comportamental
 
