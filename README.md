@@ -59,7 +59,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📙 [Designing Software Architectures – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)  
 - 📗 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
 - 📒 [Fundamentos da Arquitetura de Software: Uma abordagem de engenharia – Mark Richards & Neal Ford](https://www.amazon.com.br/dp/8550819859)
-- 📔 [Arquitetura de software: As partes difíceis - Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani] (https://www.amazon.com.br/dp/8550819840)
+- 📔 [Arquitetura de software: As partes difíceis - Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani](https://www.amazon.com.br/dp/8550819840)
 - 📙 [Facilitando a Arquitetura de Software: Capacitando equipes para tomar decisões de arquitetura - Andrew Harmel-Law](https://www.amazon.com.br/dp/B0FHJ5CMFC)
 - 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
 - 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
