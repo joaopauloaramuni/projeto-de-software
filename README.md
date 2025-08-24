@@ -267,9 +267,18 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 - [Figma - Community - Template - Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
 - [Figma - Community - Example - Architecture Diagram Components - Multiplayer](https://www.figma.com/community/file/989634471195357925)
 
-###### 🔁 Figma - Diagramas de Sequência e de Classe
+###### 🔁 Figma - Diagramas de Classe
+- [Figma - Community - Template - Class Diagram Template 1](figma.com/community/widget/1223307422838321651/class-diagram-template)
+- [Figma - Community - Template - Class Diagram Template 2](https://www.figma.com/community/file/1382466485963045247)
+- [Figma - Community - Template - Class Diagram Kit](https://www.figma.com/community/file/1080957210729895033/class-diagram-kit)
+- [Figma - Community - Template - Class Diagram Components](https://www.figma.com/community/file/1212086403033670342)
+
+###### ➡️ Figma - Diagramas de Sequência
 - [Figma - Templates - Sequence Diagram](https://www.figma.com/templates/sequence-diagram-example/)
-- [Figma - Community - Template - Class Diagram](https://www.figma.com/community/widget/1223307422838321651)
+- [Figma - Article - What is a Sequence Diagram](https://www.figma.com/resource-library/what-is-a-sequence-diagram/)
+- [Figma - Community - Sequence Diagram Template 1](https://www.figma.com/community/file/1098826965587543878)
+- [Figma - Community - Sequence Diagram Template 2](https://www.figma.com/community/file/1171538979746250052)
+- [Figma - Community - Sequence Diagram Template 3](https://www.figma.com/community/file/1073197708388837434/sequence-diagram-community)
 
 ###### 🌐 Figma - APIs e Microserviços
 - [Figma - Community - Template - REST API](https://www.figma.com/community/file/1275291490973723744)
@@ -285,7 +294,7 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 
 -----
 
-##### 🎨 Templates e Exemplos de Diagramas de Pacotes (UML)
+##### 🎨 Templates e exemplos de Diagramas de Pacotes (UML)
 
 ###### 📌 Ferramentas com modelos prontos
 - [EdrawMax – Templates de Package Diagram](https://www.edrawmax.com/templates/tag/package-diagram/)
