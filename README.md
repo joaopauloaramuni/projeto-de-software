@@ -6,6 +6,8 @@
 
 # Repo Projeto de Software
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/projeto-de-software?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/projeto-de-software?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/projeto-de-software?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/projeto-de-software?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/projeto-de-software?style=for-the-badge&color=007ec6) 
+
 Disciplina do curso de Engenharia de Software da PUC Minas 
 
 - 2°Sem 2024
