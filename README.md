@@ -25,6 +25,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Exercícios de revisão](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/REVISA%CC%83O)
 - [Simulado](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/SIMULADO)
 - [Trabalhos](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/TRABALHOS)
+- [OCLBOOK](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/OCLBOOK)
 - [SWEBOK](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/SWEBOK)
 - [Plano de Ensino](https://github.com/joaopauloaramuni/projeto-de-software/tree/main/PLANO%20DE%20ENSINO)
 
@@ -210,6 +211,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 📕 [Applying UML and Patterns – Craig Larman (Cap. 11: Contracts)](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)  
 ➤ Mostra como aplicar contratos em UML usando OCL e boas práticas. Ilustra como enriquecer diagramas com restrições formais para promover design robusto e orientado a requisitos precisos.
+
+###### 📄 **Object Constraint Language – Version 2.4 (Especificação Oficial OMG)**
+
+- **Object Constraint Language (OCL) 2.4 – OMG Document (formal/2014-02-03)**  
+  ➤ Especificação oficial e definitiva da linguagem OCL, publicada pela OMG. Inclui sintaxe formal, semântica e arquivos máquina-legível para ferramentas que implementam OCL.  
+  PDF: https://www.omg.org/spec/OCL/2.4/PDF  
+  Página do padrão: http://www.omg.org/spec/OCL/2.4
 
 -----
 
