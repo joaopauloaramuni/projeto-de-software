@@ -271,22 +271,22 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-##### 🎨 Figma
+#### 🎨 Figma
 
-###### 🖌️ Design de interfaces e prototipagem com Figma
+##### 🖌️ Design de interfaces e prototipagem com Figma
 O Figma é uma das principais ferramentas de design de interfaces e prototipagem colaborativa do mercado. Permite criar layouts, fluxos de navegação e componentes reutilizáveis de forma integrada entre designers e desenvolvedores. Com recursos de colaboração em tempo real, facilita a iteração rápida e a validação de ideias, sendo amplamente adotado por equipes ágeis e projetos orientados à experiência do usuário (UX/UI).
 
-###### 👨‍🏫 Figma - Education
+##### 👨‍🏫 Figma - Education
 - [Figma Education](https://www.figma.com/pt-br/education/)
 - [Figma Education - Apply](https://www.figma.com/education/apply)
 
-###### 🎨 Figma - Templates
+##### 🎨 Figma - Templates
 
-###### 🗂️ Figma - Templates gerais
+##### 🗂️ Figma - Templates gerais
 - [Figma - Templates](https://www.figma.com/pt-br/modelos/)
 - [Figma - Templates - Engineering](https://www.figma.com/templates/engineering/)
 
-###### 💻 Figma - Portfólios Dev
+##### 💻 Figma - Portfólios Dev
 - [Figma - Community - Template - Dev 1](https://www.figma.com/community/file/1116246660507537002)
 - [Figma - Community - Template - Dev 2](https://www.figma.com/community/file/1387080701963671866)
 - [Figma - Community - Template - Dev 3](https://www.figma.com/community/file/1199400234468163757)
@@ -294,49 +294,49 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 - [Figma - Community - Template - Dev 5](https://www.figma.com/community/file/1006095821656678611)
 - [Figma - Community - Template - Dev 6](https://www.figma.com/community/file/1117086389471494637)
 
-###### ☁️ Figma - Templates AWS / Arquitetura de sistemas
+##### ☁️ Figma - Templates AWS / Arquitetura de sistemas
 - [Figma - Templates - AWS Diagram Software](https://www.figma.com/templates/aws-diagram-software/)
 - [Figma - Community - Template - AWS Diagram Software](https://www.figma.com/community/file/989585391556898521)
 - [Figma - Community - Template - Architecture Diagram Components](https://www.figma.com/community/file/989635781221754599)
 - [Figma - Community - Example - Architecture Diagram Components - Multiplayer](https://www.figma.com/community/file/989634471195357925)
 
-###### 🔁 Figma - Diagramas de Classe
+##### 🔁 Figma - Diagramas de Classe
 - [Figma - Community - Template - Class Diagram Template 1](https://www.figma.com/community/widget/1223307422838321651/class-diagram-template)
 - [Figma - Community - Template - Class Diagram Template 2](https://www.figma.com/community/file/1382466485963045247)
 - [Figma - Community - Template - Class Diagram Kit](https://www.figma.com/community/file/1080957210729895033/class-diagram-kit)
 - [Figma - Community - Template - Class Diagram Components](https://www.figma.com/community/file/1212086403033670342)
 
-###### ↔️ Figma - Diagramas de Estado
+##### ↔️ Figma - Diagramas de Estado
 - [Figma - Community - Template - State Diagram](https://www.figma.com/community/file/1421434533409803988)
 - [Figma - Community - Template - State Diagram](https://www.figma.com/community/file/1296294416175574183)
 
-###### ➡️ Figma - Diagramas de Sequência
+##### ➡️ Figma - Diagramas de Sequência
 - [Figma - Templates - Sequence Diagram](https://www.figma.com/templates/sequence-diagram-example/)
 - [Figma - Article - What is a Sequence Diagram](https://www.figma.com/resource-library/what-is-a-sequence-diagram/)
 - [Figma - Community - Sequence Diagram Template 1](https://www.figma.com/community/file/1098826965587543878)
 - [Figma - Community - Sequence Diagram Template 2](https://www.figma.com/community/file/1171538979746250052)
 - [Figma - Community - Sequence Diagram Template 3](https://www.figma.com/community/file/1073197708388837434/sequence-diagram-community)
 
-###### 💬 Figma - Diagramas de Comunicação
+##### 💬 Figma - Diagramas de Comunicação
 - [Figma - Community - Communication Diagram Template](https://www.figma.com/pt-br/comunidade/file/1421434973050580694/uml-communication-diagram-template-the-conference-room)
 
-###### 🌐 Figma - APIs e Microserviços
+##### 🌐 Figma - APIs e Microserviços
 - [Figma - Community - Template - REST API](https://www.figma.com/community/file/1275291490973723744)
 - [Figma - Community - Template - Microservices](https://www.figma.com/community/file/1289282634966901135)
 
-###### 👤 Figma - User Persona Template
+##### 👤 Figma - User Persona Template
 - [Figma - Community - Template - User Persona](https://www.figma.com/community/file/881830156311997001)
 
-###### 🧱 Figma - C4 Model (Arquitetura de Software)
+##### 🧱 Figma - C4 Model (Arquitetura de Software)
 - [Figma - Templates - C4 Model Examples](https://www.figma.com/templates/c4-model-examples/)
 - [Figma - Community - The C4 Model for Figma](https://www.figma.com/community/file/1122907722147721168/the-c4-model-for-figma)
 - [Figma - Community - Free Flowchart C4 Model for Visualising Software Architecture](https://www.figma.com/community/file/993021410825878148/free-flowchart-c4-model-for-visualising-software-architecture)
 
 -----
 
-##### 🎨 Templates e exemplos de Diagramas de Pacotes (UML)
+#### 🎨 Templates e exemplos de Diagramas de Pacotes (UML)
 
-###### 📌 Ferramentas com modelos prontos
+##### 📌 Ferramentas com modelos prontos
 - [EdrawMax – Templates de Package Diagram](https://www.edrawmax.com/templates/tag/package-diagram/)
 - [Lucid – Package Diagram Templates](https://lucid.co/templates/uml-package-diagram)  
 - [Visual Paradigm – Templates de Package Diagram](https://online.visual-paradigm.com/diagrams/templates/package-diagram/)  
@@ -344,29 +344,29 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 - [SmartDraw – Exemplos de Package Diagram](https://www.smartdraw.com/uml-diagram/examples/uml-package-diagram/?srsltid=AfmBOopA8B4QtzKMnNm5PFErDykBGztYqIlXPEDOUKutRlLnb8InDBWL)  
 - [Miro - Exemplo de Use Case Diagram](https://miro.com/app/dashboard/?tpTemplate=6df48513-d72e-4ccb-9914-8e8e533c980c&isCustom=false&share_link_id=333552543717)  
 
-###### 📖 Tutoriais e guias explicativos
+##### 📖 Tutoriais e guias explicativos
 - [Edraw – Como Criar um UML Package Diagram](https://edraw.wondershare.com/uml-package.html?srsltid=AfmBOorSSxwW32qlHC8Fgh2tdqQZHTwc4pTnpThZG1OFOxK7pD1aesk9)  
 - [Lucidchart – Tutorial UML Package Diagram](https://www.lucidchart.com/pages/tutorial/uml-package-diagram)  
 - [Draw.io – Introdução a UML Package Diagrams](https://www.drawio.com/blog/uml-package-diagrams)  
 - [Miro – O que é um UML Package Diagram?](https://miro.com/diagramming/what-is-a-uml-package-diagram/)  
 
-###### 📚 Exemplos de referência
+##### 📚 Exemplos de referência
 - [UML Diagrams – Exemplos de Package Diagram](https://www.uml-diagrams.org/package-diagrams-examples.html)  
 
 -----
 
-##### 💬 Templates e exemplos de Diagramas de Comunicação (UML)
+#### 💬 Templates e exemplos de Diagramas de Comunicação (UML)
 
-###### 📌 Ferramentas com modelos prontos
+##### 📌 Ferramentas com modelos prontos
 - [Lucid – Communication Diagram Templates](https://lucid.co/templates/uml-communication-diagram)  
 - [Miro – UML Communication Diagram Template](https://miro.com/templates/uml-communication-diagram/)  
 - [Figma – UML Communication Diagram Template (The Conference Room)](https://www.figma.com/pt-br/comunidade/file/1421434973050580694/uml-communication-diagram-template-the-conference-room)  
 
-###### 📖 Tutoriais e guias explicativos
+##### 📖 Tutoriais e guias explicativos
 - [Lucidchart – Tutorial UML Communication Diagram](https://www.lucidchart.com/pages/tutorial/uml-communication-diagram)  
 - [Microsoft Visio – Criar um Diagrama de Comunicação UML](https://support.microsoft.com/en-us/office/create-a-uml-communication-diagram-911956f4-5f19-4a58-97a3-bb14110a5ed1)  
 
-###### 📚 Exemplos de referência
+##### 📚 Exemplos de referência
 - [UML Diagrams – Exemplos de Communication Diagram](https://www.uml-diagrams.org/communication-diagrams.html)  
 
 -----
