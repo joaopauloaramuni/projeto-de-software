@@ -372,7 +372,7 @@ O Figma é uma das principais ferramentas de design de interfaces e prototipagem
 
 -----
 
-### 📐 PlantUML – Referências e Recursos Oficiais
+#### 📐 PlantUML – Referências e recursos oficiais
 
 - [PlantUML - Diagramas UML](https://plantuml.com/)
 - [PlantUML - Guia oficial](https://plantuml.com/guide)
