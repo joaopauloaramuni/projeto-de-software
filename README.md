@@ -47,7 +47,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
    - 🎵 [Podcast / Audiobook no Spotify](https://open.spotify.com/show/4yEKBtRMbtwLtgXP8Gq0Fa)  
      Engenharia de Software Moderna está também disponível no formato de podcast, com resumos de seções do livro gerados por IA por meio do NotebookLM do Google.
 
-- 📘 [[Fundamentos de Manutenção de Software - Marco Tulio Valente](https://manutencaosoftware.org/)
+- 📘 [[Fundamentos de Manutenção de Software - Marco Tulio Valente](https://manutencaosoftware.org/)  
   Livro gratuito e atualizado que aborda a manutenção de software com foco em boas práticas, como código limpo, documentação, depuração e gestão de dívida técnica.
 
 - 📙 [Análise e Projeto de Sistemas – Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.amazon.com.br/An%C3%A1lise-Projeto-Sistemas-Alan-Dennis/dp/852162509X)  
