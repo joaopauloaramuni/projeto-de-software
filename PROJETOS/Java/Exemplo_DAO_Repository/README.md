@@ -93,8 +93,4 @@ java Main
 
 Este projeto está licenciado sob a licença MIT.
 
-------------------------------------------------------------------------
-
-## 👨‍🏫 Autor
-
-Projeto didático para ensino de Engenharia de Software.
+---
